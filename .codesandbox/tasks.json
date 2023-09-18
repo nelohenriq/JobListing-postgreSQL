@@ -20,21 +20,6 @@
         "files": ["./package-lock.json"]
       }
     },
-    "build": {
-      "name": "Build",
-      "command": "npm run build",
-      "runAtStart": false
-    },
-    "start": {
-      "name": "Start Server",
-      "command": "npm run start",
-      "runAtStart": false
-    },
-    "lint": {
-      "name": "Lint",
-      "command": "npm run lint",
-      "runAtStart": false
-    },
     "install": {
       "name": "Install Dependencies",
       "command": "npm install",
